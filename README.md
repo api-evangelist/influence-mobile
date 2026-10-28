@@ -126,14 +126,14 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Developer ergonomics | 26.2 |
 | Access clarity | 21.1 |
 
-**Agent readiness 5.6** — agent-aware
+**Agent readiness 2.5** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
